@@ -1,5 +1,5 @@
 {
-  "name": "quill-image-resize-module",
+  "name": "quill-image-resize-module-improved",
   "version": "3.0.0",
   "description": "A module for Quill rich text editor to allow images to be resized.",
   "main": "image-resize.min.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kensnyder/quill-image-resize-module.git"
+    "url": "git+https://github.com/AudaciTWeb/quill-image-resize-module.git"
   },
   "keywords": [
     "quill",
